@@ -7,5 +7,5 @@ Sublime Text 3
 ## Acknowledgements
 Special thanks to everyone in the forums that helped me troubleshoot.
 
-## LINK 
+## Link 
 View project [HERE](https://shaelaw.github.io/Udacity-Portfolio-Project1/)
